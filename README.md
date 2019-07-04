@@ -6,7 +6,7 @@
 
 * https://github.com/riskiyana/PremiumFb
 
-* cd DarkPremium
+* cd PremiumFb
 
 * pip2 install -r requirements.txt
 
