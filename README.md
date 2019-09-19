@@ -4,7 +4,7 @@
 
 * pip2 install --upgrade pip
 
-* https://github.com/riskiyana/PremiumFb
+* git clone https://github.com/riskiyana/PremiumFb
 
 * cd PremiumFb
 
